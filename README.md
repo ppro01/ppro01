@@ -1,6 +1,6 @@
 ### Hey there! My name is Francisco, and I'm a student of Systems Development.
 
---
+##
 ### My Stats:
 <div align="center">
   <a href="https://github.com/ppro01">
@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppro01&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-  --
+  ##
 
   ### My Languages:
   
@@ -22,7 +22,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-  --
+  ##
   
   ### Languages that I want to learn:
 <div style="display: inline_block">
@@ -34,7 +34,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
 
-  --
+  ##
 
 ### Frameworks, Platforms and Libraries
 
@@ -46,7 +46,7 @@
     <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TAILWIND">
 </div>
   
-  --
+  ##
 
 ### My IDE:
 <div style="display: inline_block">  
@@ -55,13 +55,13 @@
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=black">
 </div>
 
-  --
+  ##
   
   ### Social Media
 <div> 
   <a href="https://www.instagram.com/ppero01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-  --
+  ##
   
 Thanks for the visit! :D
