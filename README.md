@@ -11,7 +11,7 @@
   
   ##
 
-  ### My Languages:
+  ### What I use:
   
 <div style="display: inline_block">
   <br>
@@ -25,7 +25,7 @@
 
   ##
   
-  ### Languages that I want to learn:
+  ### What I want to learn:
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
