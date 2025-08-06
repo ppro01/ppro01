@@ -1,4 +1,4 @@
-### Hey there! My name is Francisco, and I'm a student of Systems Development on my 2nd year.
+### Hey there! My name is Francisco, and I'm a System Developer.
 
 ##
 ### My Stats:
